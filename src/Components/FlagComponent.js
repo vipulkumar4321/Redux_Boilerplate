@@ -13,5 +13,4 @@ const FlagComponent = () => {
     </div>
   );
 };
-
 export default FlagComponent;

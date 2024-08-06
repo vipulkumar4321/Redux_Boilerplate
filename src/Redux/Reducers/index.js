@@ -6,5 +6,4 @@ const rootReducer = combineReducers({
   counter: counterReducer,
   flag: flagReducer,
 });
-
 export default rootReducer;
